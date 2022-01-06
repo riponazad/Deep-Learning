@@ -1,10 +1,10 @@
 # Deep-Learning: A beginner's course using PyTorch
 Deep learning course for beginners. Step by step tutorial using PyTorch.
-### 1. Introduction to tensor of pytorch (**TP_00_PyTorch**)
+### 1. Introduction to tensor of pytorch (TP_00)
 Get used to with the tensor, finding similarities with numpy, its operation especially autograd at the end.
 
 
-### 2. Multilayer Perceptron in PyTorch
+### 2. Multilayer Perceptron in PyTorch (TP_01)
 
 #### Goal
 Learn the basics of PyTorch (PT) by working on an artificial classification problem.
