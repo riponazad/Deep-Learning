@@ -26,3 +26,17 @@ Modules python:
 - pytorch >=1.0
 - numpy
 - matplotlib
+
+### 3. High level deep learning (TP_02)
+
+#### Introduction
+
+In the past lab we have used the low-level API of PyTorch to implement an MLP. We trained the model to fit a synthetic data set and we experimented with different batch sizes and learning rates.
+
+In this lab we will use one of PyTorch high-level APIs: `torch.nn`. This time we will experiment on more complex and natural datasets: MNIST or Fashion-MNIST.
+
+
+#### Objectives
+- Learn to use the PyTorch `nn` API
+- Build, train and use a simple MLP
+- Analyse the some of the predictions and mistakes of the model
