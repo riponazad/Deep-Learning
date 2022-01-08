@@ -8,7 +8,7 @@ Get used to with the tensor, finding similarities with numpy, its operation espe
 ### 2. Multilayer Perceptron in PyTorch (TP_01)
 
 #### Goal
-Learn the basics of PyTorch (PT) by working on an artificial classification problem.
+Learn the basics of PyTorch (PT) by working on an artificial classification problem where we will implement MLP in low level using autograd of pytorch so that you get proper insight.
 
 #### Plan
 In this tutorial we will create a set of synthetic data that we will use as an example problem.
